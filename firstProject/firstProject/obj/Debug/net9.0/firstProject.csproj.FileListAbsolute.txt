@@ -1,0 +1,15 @@
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\bin\Debug\net9.0\firstProject.exe
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\bin\Debug\net9.0\firstProject.deps.json
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\bin\Debug\net9.0\firstProject.runtimeconfig.json
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\bin\Debug\net9.0\firstProject.dll
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\bin\Debug\net9.0\firstProject.pdb
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\firstProject.AssemblyInfoInputs.cache
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\firstProject.AssemblyInfo.cs
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\firstProject.csproj.CoreCompileInputs.cache
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\firstProject.sourcelink.json
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\firstProject.dll
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\refint\firstProject.dll
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\firstProject.pdb
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\firstProject.genruntimeconfig.cache
+D:\Projects\C_Sharp_Freecodecamp\firstProject\firstProject\obj\Debug\net9.0\ref\firstProject.dll
